@@ -20,13 +20,31 @@ h6 {
     color: #007bff;
     text-decoration: none;
     background-color: transparent;
+    font-family: "Lato", sans-serif;
 }
 .card-title {
     margin-bottom: 5px;
+    font-family: "Merriweather", serif;
 }
 .margin-top {
     margin-top: 20px;
 }
 .topic:hover {
     cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.flex {
+    display: flex;
+}
+.align-left {
+    justify-content: left;
+}
+.heading {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: "Merriweather", serif;
+}
+.card-text {
+    font-family: "Nunito", sans-serif;
 }
