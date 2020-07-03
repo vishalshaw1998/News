@@ -48,3 +48,7 @@ h6 {
 .card-text {
     font-family: "Nunito", sans-serif;
 }
+.topic {
+    font-size: large;
+    font-weight: bold;
+}
