@@ -1,0 +1,32 @@
+.border-botm {
+    border-bottom: 1px solid black;
+}
+hr {
+    border: 1px solid black;
+}
+img {
+    height: 100% !important;
+}
+.card-body {
+    padding: 0px 0px 0px 0px;
+}
+.padding {
+    padding: 1.5rem;
+}
+.col-img {
+    padding-right: 0px;
+}
+h6 {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.card-title {
+    margin-bottom: 5px;
+}
+.margin-top {
+    margin-top: 20px;
+}
+.topic:hover {
+    cursor: pointer;
+}
